@@ -708,6 +708,7 @@
     "STORE_CLOSE_DESCRIPTION": "您最喜欢的商店{{storeName}}现在已关闭。它们将在{{openTime}}再次开门。",
     "IT_TIME_FOR_AN_UPDATE": "到时更新了！",
     "UPDATE_THE_WINGMALL_TO_KEEP_ENJOYING_YOUR_APP_WITH_ALL_NEW_FEATURES": "更新 Wingmall，使用所有新功能继续享受您的APP。",
-    "ITEM": "商品"
+    "ITEM": "商品",
+    "test": "testing"
   }
 }
