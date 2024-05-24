@@ -513,7 +513,7 @@
         "NO": "No",
         "NO_THANKS": "No, Thanks"
       },
-      "HOME": "Home",
+      "HOME": "Home EN",
       "CATEGORY": "Category",
       "CART": "Cart",
       "ORDER": "Order",
@@ -1227,7 +1227,7 @@
         "NO": "No",
         "NO_THANKS": "No, Thanks"
       },
-      "HOME": "Home",
+      "HOME": "Home CN",
       "CATEGORY": "Category",
       "CART": "Cart",
       "ORDER": "Order",
@@ -1940,7 +1940,7 @@
         "YES": "បាទ/ចាស",
         "NO_THANKS": "ទេអរគុណ"
       },
-      "HOME": "ទំព័រដើម",
+      "HOME": "ទំព័រដើម KH",
       "CATEGORY": "ប្រភេទ",
       "CART": "កន្រ្តក",
       "ORDER": "កម្ម៉ង់",
