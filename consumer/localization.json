@@ -503,7 +503,6 @@
       "DO_YOU_WANT_TO_CLEAR_ALL_YOUR_SEARCH_HISTORY": "Do you want to clear all your search history?"
     },
     "COMMON": {
-      "TESTING": "TESTING lololo",
       "BTN": {
         "SAVE_ADDRESS": "Save Address",
         "SAVE_CHANGES": "Save Changes",
@@ -2342,7 +2341,6 @@
       "DO_YOU_WANT_TO_CLEAR_ALL_YOUR_SEARCH_HISTORY": "Do you want to clear all your search history?"
     },
     "COMMON": {
-      "TESTING": "TESTING lololo",
       "BTN": {
         "SAVE_ADDRESS": "Save Address",
         "SAVE_CHANGES": "Save Changes",
@@ -2811,7 +2809,8 @@
       "collect_payment_description": "收到的现金将与货到付款一起退还给您的{{bankname}}银行。",
       "cod_info": "一旦订单完成，结算将立即结算",
       "input_aba_bank_info": "请输入您的银行账户，并在交付完成后将收取的金额记入您的账户。",
-      "added_receivers": "增加接受者 {{count}}",
+      "added_receivers_1": "增加接受者 {{count}}",
+      "added_receivers_5": "增加接受者 {{count}}",
       "enter_amount": "输入金额",
       "route_optimize": "智能路线",
       "route_optimize_description": "找到最快和最近的路线",
@@ -2960,7 +2959,9 @@
       "claim_now": "立即收下",
       "you_got": "您收到 ${{amount}}",
       "on_your_first_order_today": "首单",
-      "expires_in_days": "还有{{count}}天过期。",
+      "expires_in_days_0": "还有{{count}}天过期。",
+      "expires_in_days_1": "还有{{count}}天过期。",
+      "expires_in_days_5": "还有{{count}}天过期。",
       "on_your_order": "首单",
       "on_order": "首单 ${{amount}}+",
       "coupon_detail": "优惠券说明",
@@ -4174,7 +4175,6 @@
       "DO_YOU_WANT_TO_CLEAR_ALL_YOUR_SEARCH_HISTORY": "តើអ្នកចង់លុបប្រវត្តិចេញ​ទាំងអស់​ដែរ ឬទេ?"
     },
     "COMMON": {
-      "TESTING": "TESTING lololo",
       "BTN": {
         "SAVE_ADDRESS": "រក្សាទុកអាស័យដ្ខាន",
         "SAVE_CHANGES": "រក្សាទុក",
@@ -4645,7 +4645,8 @@
       "collect_payment_description": "សាច់ប្រាក់ដែលប្រមូលបាននឹងត្រូវប្រគល់ជូនធនាគារ {{bankname}} របស់អ្នកវិញជាមួយនឹងការបង់ប្រាក់នៅពេលដឹកជញ្ជូនទំនិញទៅដល់។",
       "cod_info": "ការទូទាត់ប្រាក់នឹងត្រូវបានទូទាត់ភ្លាមៗនៅពេលដែលការកម្មង់បានបញ្ចប់",
       "input_aba_bank_info": "សូមបញ្ចូលគណនីធនាគាររបស់អ្នក ហើយចំនួនទឹកប្រាក់ដែលប្រមូលបាននឹងត្រូវបានបញ្ចូលទៅក្នុងគណនីរបស់អ្នកបន្ទាប់ពីការដឹកជញ្ជូនត្រូវបានបញ្ចប់។",
-      "added_receivers": "អ្នកទទួលបន្ថែម {{count}}",
+      "added_receivers_1": "អ្នកទទួលបន្ថែម {{count}}",
+      "added_receivers_5": "អ្នកទទួលបន្ថែម {{count}}",
       "enter_amount": "បញ្ចូលចំនួនទឹកប្រាក់",
       "route_optimize": "ផ្លូវឆ្លាតវៃ",
       "route_optimize_description": "ស្វែងរកផ្លូវលឿន និងជិតបំផុត",
@@ -5208,7 +5209,7 @@
       "submit": "ដាក់បញ្ជូន",
       "error_cancel_order": "Something went wrong while canceling order.",
       "rating": "ការវាយតម្លៃ",
-      "rate_merchant": "{{name}} មិនមានទំនិញនៅក្នុងកន្ត្រកទំនិញនេះទេ។",
+      "rate_merchant": "{{restaurantName}} មិនមានទំនិញនៅក្នុងកន្ត្រកទំនិញនេះទេ។",
       "rate_deliverer": "តើអ្នកគិតយ៉ាងណាចំពោះអ្នកបើកបររបស់យើង?",
       "rate_store": "ការវាយតម្លៃហាង",
       "rate_driver": "ការវាយតម្លៃអ្នកបើកបរ",
